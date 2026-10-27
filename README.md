@@ -24,8 +24,7 @@ Project_Highway_Delite/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/vishal-tamhane/Tourism-Booking-Project.git
-cd Tourism-Booking-Project
+git clone https://github.com/AayanDeshmukh-Dev/Tourism-Booking-Project
 ```
 
 ### **2. Backend Setup**
