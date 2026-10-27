@@ -4,6 +4,11 @@ A full-stack tourism booking platform with React frontend and Node.js/Express ba
 
 ## 📁 Project Structure
 
+
+Project_Highway_Delite/
+├── Backend/          # Node.js + Express + PostgreSQL API
+└── Fronted/         # React + Vite + Tailwind CSS
+
 ```
 Project_Highway_Delite/
 ├── Backend/          # Node.js + Express + PostgreSQL API
